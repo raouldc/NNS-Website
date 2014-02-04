@@ -1,0 +1,77 @@
+body {
+    font-family: 'Lato', sans-serif;
+    margin-top: 50px;
+    /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+/* change the URL to a picture of your choice - the higher quality the better! */
+
+.business-header {
+    height: 700px;
+    /*	background: url(http://farm9.staticflickr.com/8369/8419807643_569100db2b_o.jpg) center center no-repeat;*/
+    background: url(http://farm9.staticflickr.com/8369/8419807643_569100db2b_o.jpg) center center no-repeat;
+    background-size: cover;
+}
+/* adjust the color and text shadow to optimize legibility once you have an image set - you can also change the vertical positioning if desired  */
+
+.tagline {
+    color: #fff;
+    text-shadow: 0 0 10px #000;
+}
+h1,
+h2,
+h3,
+h4,
+b {
+    font-family: 'Lato', sans-serif;
+}
+footer {
+    color: #666;
+    background: #222222;
+    padding: 17px 0 18px 0;
+    border-top: 1px solid #000;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: none;
+    font-size: 22px;
+}
+footer a:link {
+    font-size: 22px;
+}
+.topspacing {
+    padding-top: 10px
+}
+.navdown {
+    padding-top: 7px;
+    font-size: 22px;
+    font-family: 'Lato', sans-serif;
+}
+.workelement {
+    padding: 10px 0 70px;
+}
+.largespace {
+    padding: 100px 0 200px;
+}
+a:link {
+    color: #6E6E6E;
+    text-decoration: none;
+}
+/* unvisited link */
+
+a:visited {
+    color: #6E6E6E;
+    text-decoration: none;
+}
+/* visited link */
+
+a:hover {
+    color: #222222;
+    text-decoration: none;
+}
+/* mouse over link */
+
+a:active {
+    color: #222222;
+    text-decoration: none;
+}
+/* selected link */
