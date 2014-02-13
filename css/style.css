@@ -809,3 +809,11 @@ input[type="text"], select, textarea {
 	-o-animation-name: fadeInUp;
 	animation-name: fadeInUp;
 }
+.centerstore {
+   float: none; 
+   margin: 0 auto; 
+   text-align: center; 
+   display: block; 
+   width: auto; 
+   height: auto;
+}
