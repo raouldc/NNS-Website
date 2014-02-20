@@ -1,0 +1,23 @@
+﻿<AdSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CultureDescriptors>
+    <AdCultureDescriptor CultureName="en-US">
+      <Probabilities Probability="90" AdType="PubCenter" AppID="8d83c443-7810-4b34-bf1b-eaea107f5e05" SecondaryID="129972"/>
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="42479"/>
+      <Probabilities AdType="DefaultHouseAd" AppID="UCQScratch.defaultHouseAd" SecondaryID="UCQScratch.defaultHouseAd"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="en-GB">
+      <Probabilities Probability="90" AdType="PubCenter" AppID="8d83c443-7810-4b34-bf1b-eaea107f5e05" SecondaryID="129972"/>
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="42479"/>
+      <Probabilities AdType="DefaultHouseAd" AppID="UCQScratch.defaultHouseAd" SecondaryID="UCQScratch.defaultHouseAd"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="de-DE">
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="42479"/>
+      <Probabilities Probability="90" AdType="PubCenter" AppID="8d83c443-7810-4b34-bf1b-eaea107f5e05" SecondaryID="129972"/>
+      <Probabilities AdType="DefaultHouseAd" AppID="UCQScratch.defaultHouseAd" SecondaryID="UCQScratch.defaultHouseAd"/>
+    </AdCultureDescriptor>
+    <AdCultureDescriptor CultureName="default">
+      <Probabilities Probability="90" AdType="PubCenter" AppID="8d83c443-7810-4b34-bf1b-eaea107f5e05" SecondaryID="129972"/>
+      <Probabilities Probability="10" AdType="AdDuplex" AppID="42479"/>
+    </AdCultureDescriptor>
+  </CultureDescriptors>
+</AdSettings>

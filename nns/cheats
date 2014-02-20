@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <PS3>
+    <item>
+      <title>Invincibility</title>
+      <content>RIGHT, X, RIGHT, LEFT, RIGHT, R1, RIGHT, LEFT, X, TRIANGLE</content>
+    </item>
+    <item>
+      <title>Max Health and Armor</title>
+      <content>CIRCLE, L1, TRIANGLE, R2, X, SQUARE, CIRCLE, RIGHT, SQUARE, L1, L1, L1</content>
+    </item>
+    <item>
+      <title>Give Weapons (Ammo, Weapons*)</title>
+      <content>TRIANGLE, R2, LEFT, L1, X, RIGHT, TRIANGLE, DOWN, SQUARE, L1, L1, L1</content>
+    </item>
+    <item>
+      <title>Super Jump</title>
+      <content>LEFT, LEFT, TRIANGLE, TRIANGLE, RIGHT, RIGHT, LEFT, RIGHT, SQUARE, R1, R2</content>
+    </item>
+    <item>
+      <title>Moon Gravity</title>
+      <content>LEFT, LEFT, L1, R1, L1, RIGHT, LEFT, L1, LEFT</content>
+    </item>
+    <item>
+      <title>Raise Wanted Level</title>
+      <content>R1, R1, CIRCLE, R2, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT</content>
+    </item>
+    <item>
+      <title>Lower Wanted Level</title>
+      <content>R1, R1, CIRCLE, R2, RIGHT, LEFT, RIGHT, LEFT, RIGHT, LEFT</content>
+    </item>
+    <item>
+      <title>Fast Run</title>
+      <content>TRIANGLE, LEFT, RIGHT, RIGHT, L2, L1, SQUARE</content>
+    </item>
+    <item>
+      <title>Fast Swim	</title>
+      <content>LEFT, LEFT, L1, RIGHT, RIGHT, R2, LEFT, L2, RIGHT</content>
+    </item>
+    <item>
+      <title>Recharge Ability</title>
+      <content>X, X, SQUARE, R1, L1, X, RIGHT, LEFT, X</content>
+    </item>
+    <item>
+      <title>Give Parachute</title>
+      <content>LEFT, RIGHT, L1, L2, R1, R2, R2, LEFT, LEFT, RIGHT, L1</content>
+    </item>
+    <item>
+      <title>Skyfall</title>
+      <content>L1, L2, R1, R2, LEFT, RIGHT, LEFT, RIGHT, L1, L2, R1, R2, LEFT, RIGHT, LEFT, RIGHT</content>
+    </item>
+    <item>
+      <title>Explosive Melee Attacks</title>
+      <content>RIGHT, LEFT, X, TRIANGLE, R1, CIRCLE, CIRCLE, CIRCLE, L2</content>
+    </item>
+    <item>
+      <title>Bang Bang (Explosive Bullets)</title>
+      <content>RIGHT, SQUARE, X, LEFT, R1, R2, LEFT, RIGHT, RIGHT, L1, L1, L1</content>
+    </item>
+    <item>
+      <title>Flaming Bullets</title>
+      <content>L1, R1, SQUARE, R1, LEFT, R2, R1, LEFT, SQUARE, RIGHT, L1, L1</content>
+    </item>
+    <item>
+      <title>Slow Motion Aim</title>
+      <content>SQUARE, L2, R1, TRIANGLE, LEFT, SQUARE, L2, RIGHT, X</content>
+    </item>
+    <item>
+      <title>Drunk Mode</title>
+      <content>TRIANGLE, RIGHT, RIGHT, LEFT, RIGHT, SQUARE, CIRCLE, LEFT</content>
+    </item>
+    <item>
+      <title>Change Weather</title>
+      <content>R2, X, L1, L1, L2, L2, L2, SQUARE</content>
+    </item>
+    <item>
+      <title>Slidey Cars</title>
+      <content>TRIANGLE, R1, R1, LEFT, R1, L1, R2, L1</content>
+    </item>
+    <item>
+      <title>Slow Motion</title>
+      <content>TRIANGLE, LEFT, RIGHT, RIGHT, SQUARE, R2, R1</content>
+    </item>
+    <item>
+      <title>Spawn Buzzard Attack Helicopter</title>
+      <content>CIRCLE, CIRCLE, L1, CIRCLE, CIRCLE, CIRCLE, L1, L2, R1, TRIANGLE, CIRCLE, TRIANGLE</content>
+    </item>
+    <item>
+      <title>Spawn Comet</title>
+      <content>R1, CIRCLE, R2, RIGHT, L1, L2, X, X, SQUARE, R1</content>
+    </item>
+    <item>
+      <title>Spawn Sanchez</title>
+      <content>CIRCLE, X, L1, CIRCLE, CIRCLE, L1, CIRCLE, R1, R2, L2, L1, L1</content>
+    </item>
+    <item>
+      <title>Spawn Trashmaster</title>
+      <content>CIRCLE, R1, CIRCLE, R1, LEFT, LEFT, R1, L1, CIRCLE, RIGHT</content>
+    </item>
+    <item>
+      <title>Spawn Limo</title>
+      <content>R2, RIGHT, L2, LEFT, LEFT, R1, L1, CIRCLE, RIGHT</content>
+    </item>
+    <item>
+      <title>Spawn Stunt Plane</title>
+      <content>CIRCLE, RIGHT, L1, L2, LEFT, R1, L1, L1, LEFT, LEFT, X, TRIANGLE</content>
+    </item>
+    <item>
+      <title>Spawn Caddy</title>
+      <content>CIRCLE, L1, LEFT, R1, L2, X, R1, L1, CIRCLE, X</content>
+    </item>
+    <item>
+      <title>Spawn Rapid GT</title>
+      <content>R2, L1, CIRCLE, RIGHT, L1, R1, RIGHT, LEFT, CIRCLE, R2</content>
+    </item>
+    <item>
+      <title>Spawn Duster</title>
+      <content>RIGHT, LEFT, R1, R1, R1, LEFT, TRIANGLE, TRIANGLE, X, CIRCLE, L1, L1</content>
+    </item>
+    <item>
+      <title>Spawn PCJ-600 Motorcycle</title>
+      <content>R1, RIGHT, LEFT, RIGHT, R2, LEFT, RIGHT, SQUARE, RIGHT, L2, L1, L1</content>
+    </item>
+    <item>
+      <title>Spawn BMX</title>
+      <content>LEFT, LEFT, RIGHT, RIGHT, LEFT, RIGHT, SQUARE, CIRCLE, TRIANGLE, R1, R2</content>
+    </item>
+  </PS3>
+  <XBOX>
+    <item>
+      <title>Invincibility</title>
+      <content>RIGHT, A, RIGHT, LEFT, RIGHT, RB, RIGHT, LEFT, A, Y</content>
+    </item>
+    <item>
+      <title>Max Health and Armor</title>
+      <content>B, LB, Y, RT, A, X, B, RIGHT, X, LB, LB, LB</content>
+    </item>
+    <item>
+      <title>Give Weapons (Ammo, Weapons*)</title>
+      <content>Y, RT, LEFT, LB, A, RIGHT, Y, DOWN, X, LB, LB, LB</content>
+    </item>
+    <item>
+      <title>Super Jump</title>
+      <content>LEFT, LEFT, Y, Y, RIGHT, RIGHT, LEFT, RIGHT, X, RB, RT</content>
+    </item>
+    <item>
+        <title>Moon Gravity</title>
+        <content>LEFT, LEFT, LB, RB, LB, RIGHT, LEFT, LB, LEFT</content>
+    </item>
+    <item>
+      <title>Raise Wanted Level</title>
+      <content>RB, RB, B, RT, LEFT, RIGHT, LEFT, RIGHT, LEFT, RIGHT</content>
+    </item>
+    <item>
+      <title>Lower Wanted Level</title>
+      <content>RB, RB, B, RT, RIGHT, LEFT, RIGHT, LEFT, RIGHT, LEFT</content>
+    </item>
+    <item>
+      <title>Fast Run</title>
+      <content>Y, LEFT, RIGHT, RIGHT, LT, LB, X</content>
+    </item>
+    <item>
+      <title>Fast Swim	</title>
+      <content>LEFT LEFT LB RIGHT RIGHT RT LEFT LT RIGHT</content>
+    </item>
+    <item>
+      <title>Recharge Ability</title>
+      <content>A, A, X, RB, LB, A, RIGHT, LEFT, A</content>
+    </item>
+    <item>
+      <title>Give Parachute</title>
+      <content>LEFT, RIGHT, LB, LT, RB, RT, RT, LEFT, LEFT, RIGHT, LB</content>
+    </item>
+    <item>
+      <title>Skyfall</title>
+      <content>LB, LT, RB, RT, LEFT, RIGHT, LEFT, RIGHT, LB, LT, RB, RT, LEFT, RIGHT, LEFT, RIGHT</content>
+    </item>
+    <item>
+      <title>Explosive Melee Attacks</title>
+      <content>RIGHT, LEFT, A, Y, RB, B, B, B, LT</content>
+    </item>
+    <item>
+      <title>Bang Bang (Explosive Bullets)</title>
+      <content>RIGHT, X, A, LEFT, RB, RT, LEFT, RIGHT, RIGHT, LB, LB, LB</content>
+    </item>
+    <item>
+      <title>Flaming Bullets</title>
+      <content>LB, RB, X, RB, LEFT, RT, RB, LEFT, X, RIGHT, LB, LB</content>
+    </item>
+    <item>
+      <title>Slow Motion Aim</title>
+      <content>X, LT, RB, Y, LEFT, X, LT, RIGHT, A</content>
+    </item>
+    <item>
+      <title>Drunk Mode</title>
+      <content>Y, RIGHT, RIGHT, LEFT, RIGHT, X, B, LEFT</content>
+    </item>
+    <item>
+      <title>Change Weather</title>
+      <content>RT, A, LB, LB, LT, LT, LT, X</content>
+    </item>
+    <item>
+      <title>Slidey Cars</title>
+      <content>Y, RB, RB, LEFT, RB, LB, RT, LB</content>
+    </item>
+    <item>
+      <title>Slow Motion</title>
+      <content>Y, LEFT, RIGHT, RIGHT, X, RT, RB</content>
+    </item>
+    <item>
+      <title>Spawn Buzzard Attack Helicopter</title>
+      <content>B, B, LB, B, B, B, LB, LT, RB, Y, B, Y</content>
+    </item>
+    <item>
+      <title>Spawn Comet</title>
+      <content>RB, B, RT, RIGHT, LB, LT, A, A, X, RB</content>
+    </item>
+    <item>
+      <title>Spawn Sanchez</title>
+      <content>B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB</content>
+    </item>
+    <item>
+      <title>Spawn Trashmaster</title>
+      <content>B, RB, B, RB, LEFT, LEFT, RB, LB, B, RIGHT</content>
+    </item>
+    <item>
+      <title>Spawn Limo</title>
+      <content>RT, RIGHT, LT, LEFT, LEFT, RB, LB, B, RIGHT</content>
+    </item>
+    <item>
+      <title>Spawn Stunt Plane</title>
+      <content>B, RIGHT, LB, LT, LEFT, RB, LB, LB, LEFT, LEFT, A, Y</content>
+    </item>
+    <item>
+      <title>Spawn Caddy</title>
+      <content>B, LB, LEFT, RB, LT, A, RB, LB, B, A</content>
+    </item>
+    <item>
+      <title>Spawn Rapid GT</title>
+      <content>RT, LB, B, RIGHT, LB, RB, RIGHT, LEFT, B, RT</content>
+    </item>
+    <item>
+      <title>Spawn Duster</title>
+      <content>RIGHT, LEFT, RB, RB, RB, LEFT, Y, Y, A, B, LB, LB</content>
+    </item>
+    <item>
+      <title>Spawn PCJ-600 Motorcycle</title>
+      <content>RB, RIGHT, LEFT, RIGHT, RT, LEFT, RIGHT, X, RIGHT, LT, LB, LB</content>
+    </item>
+    <item>
+      <title>Spawn BMX</title>
+      <content>LEFT, LEFT, RIGHT, RIGHT, LEFT, RIGHT, X, B, Y, RB, RT</content>
+    </item>
+  </XBOX>
+</rss>
